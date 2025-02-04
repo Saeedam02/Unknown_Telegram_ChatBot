@@ -14,7 +14,7 @@ import random
 import string
 import base64
 
-BOT_TOKEN = "7936278631:AAHJjK_48iNXAeO8Qpg6ki_4DZ_luc_zZuI"
+BOT_TOKEN = "Put your own Token"
 BOT_ID = "Saeed_Unknownbot"
 ALLOWED = "ALL" # or ["saeed_am02" , "myanotherID"]
 
